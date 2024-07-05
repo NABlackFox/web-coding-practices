@@ -1,0 +1,34 @@
+.thumbnail{
+    width: 300px;
+}
+
+.search-bar{
+    display: block;
+}
+
+.video-title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+.channel-avatar{
+    width: 100%;
+    border-radius: 100px;
+}
+
+.channel-picture{
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+    padding-top: 20px;
+}
+.channel-info{
+    display: inline-block;
+    width: 200px;
+}
