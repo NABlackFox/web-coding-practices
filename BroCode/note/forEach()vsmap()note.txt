@@ -3,3 +3,5 @@ array so it does not need to return anything
 in the callback funtion
 .map() will return the new array so in the callback function it need to return an value of
 that element to put in the new array
+
+// DO NOT CHANGE THE ORDER OF THE: element, index, array
