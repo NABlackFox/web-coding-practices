@@ -34,3 +34,6 @@ myBox.addEventListener("click", mouseClick);
 myBox.addEventListener("mouseover", mouseOver);
 
 myBox.addEventListener("mouseout", mouseOut);
+
+// eventListener = listent for event when interact with page
+// Event: keydown, keyup // document.addEventListener(event, callback)
