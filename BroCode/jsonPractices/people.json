@@ -1,0 +1,16 @@
+[{
+    "name": "Kim",
+    "age": 30,
+    "isEmployed": true,
+    "hbbies": ["game", "cooking"]
+},{
+    "name": "Ha",
+    "age": 25,
+    "isEmployed": true,
+    "hbbies": ["game", "cooking", "skydriving"]
+},{
+    "name": "Linh",
+    "age": 20,
+    "isEmployed": false,
+    "hbbies": ["music", "crafting", "drving"]
+}]
